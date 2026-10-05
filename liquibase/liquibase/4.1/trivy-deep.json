@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a0fd62-db3b-74f3-ba16-d0066581b68b",
-  "CreatedAt": "2026-10-02T16:11:49.435325164Z",
+  "ReportID": "01a10d7b-5694-79e8-8a1f-385a1cfebed9",
+  "CreatedAt": "2026-10-05T19:12:29.332650862Z",
   "ArtifactName": "/tmp/extracted-deps",
   "ArtifactType": "filesystem"
 }
