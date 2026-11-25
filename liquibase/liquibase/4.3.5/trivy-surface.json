@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a20f46-0c64-7a09-992f-04db63955e16",
-  "CreatedAt": "2026-11-24T20:36:18.66066015Z",
+  "ReportID": "01a21449-276f-73f2-9408-71258ad50a5f",
+  "CreatedAt": "2026-11-25T19:57:48.271259919Z",
   "ArtifactID": "sha256:ff8ed7f55b08fd9284cafd43320d997cf9b44230597a824a1754b7b43d07eeb7",
   "ArtifactName": "liquibase/liquibase:4.3.5",
   "ArtifactType": "container_image",
@@ -30572,7 +30572,7 @@
             "https://bugzilla.redhat.com/show_bug.cgi?id=2463857",
             "https://creativecommons.org/licenses/by/4.0/",
             "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-42198",
-            "https://errata.almalinux.org/10/ALSA-2026-24348.html",
+            "https://errata.almalinux.org/9/ALSA-2026-22304.html",
             "https://errata.rockylinux.org/RLSA-2026:22304",
             "https://github.com/pgjdbc/pgjdbc",
             "https://github.com/pgjdbc/pgjdbc/commit/c9d41d1332a7426fcef19ff89f2e6b1116429143%20%28REL42.7.11%29",
